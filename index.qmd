@@ -7,5 +7,5 @@ Hoje será o dia mais incrível de nossas vidas!
 \<3 \<3 \<3
 
 ```{r}
-1 + 1
+
 ```
